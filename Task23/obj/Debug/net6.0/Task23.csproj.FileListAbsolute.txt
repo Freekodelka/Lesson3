@@ -1,0 +1,15 @@
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+D:\000\lesson3\Task23\bin\Debug\net6.0\Task23.exe
+D:\000\lesson3\Task23\bin\Debug\net6.0\Task23.deps.json
+D:\000\lesson3\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+D:\000\lesson3\Task23\bin\Debug\net6.0\Task23.dll
+D:\000\lesson3\Task23\bin\Debug\net6.0\Task23.pdb
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.dll
+D:\000\lesson3\Task23\obj\Debug\net6.0\refint\Task23.dll
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.pdb
+D:\000\lesson3\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+D:\000\lesson3\Task23\obj\Debug\net6.0\ref\Task23.dll
